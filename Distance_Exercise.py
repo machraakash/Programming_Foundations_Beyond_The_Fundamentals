@@ -1,7 +1,5 @@
 Miles = input('Enter a distance in miles: ')
-
 miles_float = float(Miles)
-
 Kilometers = miles_float * 1.609344
 
 print('The entered distance is', Kilometers, 'Kilometers.')
